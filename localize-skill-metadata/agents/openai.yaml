@@ -1,0 +1,4 @@
+interface:
+  display_name: "localize-skill-metadata"
+  short_description: "为技能生成或补齐中文调用面板说明与默认提示词"
+  default_prompt: "使用 $localize-skill-metadata 为一个 skill 生成或更新中文 agents/openai.yaml。"
